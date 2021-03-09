@@ -28,7 +28,13 @@ Syntax highlighted code block
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
-### Showcase
-<div align="center">
+### Portfolio
+
+#### The Last Gasp
+The world is clashed in an eternal conflict against the forces of darkness. In your past life you were a legendary warrior, who bested battle after battle and brought hope to the people. Unfortunately, due to your acclaimm Death has taken a special interest in you. And so, after finally falling in battle, instead of getting your well deserved rest, you must continue on fighting beyond the grave.
+- Developed sophisticated enemy artificial intelligence through Behavior Trees.
+- Created Navigation Queries to support spacially aware AI.
+- Programmed custom decorators and tasks to meet requirements for combat-ready AI.
+<div align="right">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/R7oTfTj03bg" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
