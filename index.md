@@ -89,11 +89,11 @@ Inspired by games alike, Robot Killing Game puts the user and 3 other teammates 
 </div>
 
 ### Dungeon Destroyers [GameJolt](https://gamejolt.com/games/dungeon-destroyers/20674) @todo Add video preview
-Inspired by games alike, Robot Killing Game puts the user and 3 other teammates in an endless round of slaughter. Put against the odds, the player must survive and scavenge the battlefield for new items and resources to fend off the incoming waves of robots. Unlock new maps, weapons, skins, and classes as you level up and fight your way to the top. There is no end to the madness. New types of enemies appear as you battle.
+There once was an adventurer, both young and agile, set off on a quest to clear the neighboring dungeon that plagued his kingdom. Accompanied by the king's assistant, the adventurer and the magi set off to clear the dungeon. However to the adventurer's surprise he was tricked and locked within the depths of the cavern. Now you must fight for the sake of the kingdom, and seek revenge to the mage who betrayed you.
 
-- Implement grid-based state machine AI
-- Develop proof-of-concept multiplayer system using TCP protocol through a server/client infrastructure.
-- Implement data-based weapon system to rapidly implement new guns to the arsenal.
+- Created state machine AI that took advantage of built-in path finding
+- Implemented randomly generated dungeons which included different loot and enemies each run.
+- Developed a variety of weapons and enemies through the use of Game Maker Language.
 <div align="left">
 <iframe width="560" height="315" src="https://www.youtube.com/watch?v=xoA0L9USabc&ab_channel=Ji_Rath" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
