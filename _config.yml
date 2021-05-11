@@ -1,3 +1,4 @@
 theme: jekyll-theme-slate
 title: Gareth Aguilar
 description: [A bunch of projects I have worked on over the years]
+show_downloads: ["false"]
