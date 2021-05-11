@@ -40,3 +40,16 @@ The world is clashed in an eternal conflict against the forces of darkness. In y
 <div align="left">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/R7oTfTj03bg" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
+
+### Beast Arena [Itchio](https://jirath.itch.io/beast-arena)
+Enter the Beast Arena, a short fast paced monster slayer game. Fight through waves of enemies of varying difficulty and amounts. Craft different items to survive the nonstop onslaught of beasts you will encounter.
+
+
+- Implemented reactive boss AI inspired by Monster Hunter: World.
+- Developed fast paced combo fighting system through Blueprints.
+- Designed and programmed drag-n-drop inventory system.
+<div align="left">
+<iframe width="560" height="315" src="https://www.youtube.com/watch?v=j364L9Ym9Mk&ab_channel=Ji_Rath" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+
+
