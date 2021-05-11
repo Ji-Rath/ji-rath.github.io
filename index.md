@@ -66,13 +66,34 @@ Sanity Not Included is a horror game where the player must solve puzzles and exp
 
 ##Unity
 
-### Butcher [Itchio](https://azzure.itch.io/butcher)
+### Butcher [Itchio](https://azzure.itch.io/butcher) @todo Add video preview
 You wake up in a room you don't know, vague memories fly in your mind about what happened. Clearly something is wrong and you must escape from there before something even worse happens, find out how to get out of the cabin alive before it finds you...
 
-- Designed and programmed interaction system and allowed designers to implement new items seamlessly with scriptable objects
-- Implemented PSX-inspired inventory system through the use of C#
-- 
+- Designed and programmed interaction system and allowed designers to implement new items seamlessly with scriptable objects.
+- Implemented PSX-inspired inventory system through C#.
+- Created UI system to give player feedback when interacting with objects in the world
 <div align="left">
 <iframe width="560" height="315" src="https://www.youtube.com/watch?v=xoA0L9USabc&ab_channel=Ji_Rath" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
+## Game Maker Studio
+
+### Hot Bots [GameJolt](https://gamejolt.com/games/HB/35847) @todo Add video preview
+Inspired by games alike, Robot Killing Game puts the user and 3 other teammates in an endless round of slaughter. Put against the odds, the player must survive and scavenge the battlefield for new items and resources to fend off the incoming waves of robots. Unlock new maps, weapons, skins, and classes as you level up and fight your way to the top. There is no end to the madness. New types of enemies appear as you battle.
+
+- Implement grid-based state machine AI
+- Develop proof-of-concept multiplayer system using TCP protocol through a server/client infrastructure.
+- Implement data-based weapon system to rapidly implement new guns to the arsenal.
+<div align="left">
+<iframe width="560" height="315" src="https://www.youtube.com/watch?v=xoA0L9USabc&ab_channel=Ji_Rath" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+
+### Dungeon Destroyers [GameJolt](https://gamejolt.com/games/dungeon-destroyers/20674) @todo Add video preview
+Inspired by games alike, Robot Killing Game puts the user and 3 other teammates in an endless round of slaughter. Put against the odds, the player must survive and scavenge the battlefield for new items and resources to fend off the incoming waves of robots. Unlock new maps, weapons, skins, and classes as you level up and fight your way to the top. There is no end to the madness. New types of enemies appear as you battle.
+
+- Implement grid-based state machine AI
+- Develop proof-of-concept multiplayer system using TCP protocol through a server/client infrastructure.
+- Implement data-based weapon system to rapidly implement new guns to the arsenal.
+<div align="left">
+<iframe width="560" height="315" src="https://www.youtube.com/watch?v=xoA0L9USabc&ab_channel=Ji_Rath" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
