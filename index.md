@@ -32,7 +32,7 @@ Sanity Not Included is a horror game where the player must solve puzzles and exp
 <iframe width="560" height="315" src="https://www.youtube.com/watch?v=xoA0L9USabc&ab_channel=Ji_Rath" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
-## Dodge-Z-Ball - [Itchio](https://djshaq121.itch.io/dodge-z-ball)
+## Dodge Z Ball - [Itchio](https://djshaq121.itch.io/dodge-z-ball)
 Dodge Z Ball, Is Arena based, first-person action game focusing on survival mode style game play, where you must manipulate a single Dodgeball to destroy your enemies and survive the dodgeball onslaught.
 
 - Implement responsive ball throwing through instant-feedback UI and interpolated ball movement
