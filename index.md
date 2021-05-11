@@ -28,7 +28,7 @@ Syntax highlighted code block
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
-## Portfolio
+# Portfolio
 
 ## Unreal Engine 4
 
@@ -74,7 +74,7 @@ Dodge Z Ball, Is Arena based, first-person action game focusing on survival mode
 <iframe width="560" height="315" src="https://www.youtube.com/watch?v=xoA0L9USabc&ab_channel=Ji_Rath" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
-##Unity
+## Unity
 
 ### Butcher [Itchio](https://azzure.itch.io/butcher) @todo Add video preview
 You wake up in a room you don't know, vague memories fly in your mind about what happened. Clearly something is wrong and you must escape from there before something even worse happens, find out how to get out of the cabin alive before it finds you...
@@ -84,6 +84,16 @@ You wake up in a room you don't know, vague memories fly in your mind about what
 - Created UI system to give player feedback when interacting with objects in the world
 <div align="left">
 <iframe width="560" height="315" src="https://www.youtube.com/watch?v=xoA0L9USabc&ab_channel=Ji_Rath" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+
+### Death Splat [Itchio](https://jirath.itch.io/deathsplat)
+Play the most dangerous game of hamster ball. Tread through death park and go out with a bang! Earn style points by running into deadly and dangerous traps. Developed for the WOWIE Jam 3, you play as a ball who must bite the dust in style. Can you be most stylish?
+
+- Lead a team of 4 and assigned tasks to each teammate to ensure work was distributed appropriately.
+- Implemented smooth and responsive player movement through the use of forces in Unity's physics system.
+- Developed points system which was based on velocity of player and airtime.
+<div align="left">
+<iframe width="560" height="315" src="https://www.youtube.com/watch?v=HlrQqiLLQeY" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
 ## Game Maker Studio
