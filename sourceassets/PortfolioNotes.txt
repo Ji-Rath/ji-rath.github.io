@@ -27,3 +27,6 @@ Finish portfolio
 Finish up/revisit resume
 Work on cover letter
 Find a few companies to apply to (5)
+
+Update about me
+- Instead of 'productive programmer', put software engineer
